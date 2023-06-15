@@ -37,7 +37,7 @@ main{
 }
 .btn {
     font-size: 1.2rem;
-    padding: 10px 10px;
+    padding: 10px 30px;
     border: none;
     outline: none;
     border-radius: 0.4rem;
@@ -68,7 +68,9 @@ main{
   .icons{
     display: flex;
     justify-content: flex-end;
+    gap: 20px;
   }
+
 
 @media screen and (max-width:950px) {
     .build{
